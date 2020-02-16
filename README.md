@@ -64,4 +64,10 @@ resource "null_resource" "drop_layer" {
 
 ## Additional reading
 
+Configuring AWS Lambda Layers
+
 https://docs.aws.amazon.com/lambda/latest/dg/configuration-layers.html
+
+Providing AWS Lambda functions access to VPC
+
+https://www.alexdebrie.com/posts/aws-lambda-vpc/
